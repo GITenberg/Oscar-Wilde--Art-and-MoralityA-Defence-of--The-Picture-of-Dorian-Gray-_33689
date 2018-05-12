@@ -1,0 +1,27 @@
+_repo: Oscar-Wilde--Art-and-MoralityA-Defence-of--The-Picture-of-Dorian-Gray-_33689
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mason, Stuart
+    alias: Millard, Christopher Sclater
+    birthdate: 1872
+    deathdate: 1927
+    gutenberg_agent_id: '36540'
+    url: http://www.gutenberg.org/2009/agents/36540
+description: ''
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilde, Oscar, 1854-1900. Picture of Dorian Gray'
+- !lcc 'PR'
+title: 'Oscar Wilde, Art and Morality: A Defence of "The Picture of Dorian Gray"'
+url: http://www.gutenberg.org/ebooks/33689
